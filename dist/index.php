@@ -1,4 +1,4 @@
 <?php
 $phpVersion = phpversion();
-echo "PHP Version: " . $phpVersion;
+echo "PHP Version is huhh: " . $phpVersion;
 ?>
